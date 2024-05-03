@@ -10,3 +10,12 @@ Este proyecto tiene como objetivo fomentar una comunidad activa a partir de esta
 <img src="https://dualtronica.com/3829-thickbox_default/sensor-de-temperatura-y-humedad-dht22-am2302.jpg" alt="Descripción de la imagen" width="300" height="300">
 * Cables dupont hembra - hembra 
 <img src="https://media.naylampmechatronics.com/154-superlarge_default/cable-jumper-dupont-hembra-a-hembra-20cm-20und.jpg" alt="Descripción de la imagen" width="300" height="300">
+
+# Software necesario 
+
+* Arduino IDE 2.3.2  link descarga --->  [Arduino](https://www.arduino.cc/en/software)
+* Cuenta en la plataforma de Ubidots --> [Ubidots](https://es.ubidots.com/)
+
+## Vídeos de instalación del IDE de Arduino y creación de cuenta en Ubidots
+* [instalación Arduino](https://www.youtube.com/watch?v=HqCd0gxqPn4)
+* [Creación cuenta Ubidots](https://www.youtube.com/watch?v=Bdx3qeXpCL4)
